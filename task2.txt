@@ -2,5 +2,12 @@ Once upon a time there was a big black cat,
 who also had a black hat,
 and always sat on the mat
 and got pat. 
+<<<<<<< HEAD
+
+A very good friend of the big black cat,
+and they lived happily ever after in the same flat.
+
+=======
 He liked to go away
 and no one could make him stay
+>>>>>>> 17a0172c4454bad2464842b562bf266c4d3e9f5c
